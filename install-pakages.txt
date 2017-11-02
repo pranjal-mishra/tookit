@@ -1,0 +1,5 @@
+npm i --g webpack gulp-cli  gulp
+npm i --D babel-core  babel-loader babel-preset-es2015
+npm i --D autoprefixer browser-sync  del
+npm i --D gulp  gulp-cssnano  gulp-imagemin gulp-modernizr gulp-postcss gulp-rev gulp-uglify gulp-usemin gulp-watch 
+npm i --D postcss-define-function  postcss-hexrgba postcss-import  postcss-mixins  postcss-nested  postcss-simple-vars
